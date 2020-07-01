@@ -1,6 +1,10 @@
 
 data/
 
-*.ipynb
-
 2016-05.csv
+
+*.zip
+
+.ipynb_checkpoints/
+
+check/
